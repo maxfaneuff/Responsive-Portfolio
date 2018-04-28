@@ -89,13 +89,13 @@ a {
 	padding-bottom: 20px;
 }
 	
-.batter-pic {
+.burger-pic {
 	width: 250px;
 	height: 200px;
 
 }
 
-#batter_banner {
+#burger_banner {
 	position: relative;
 	bottom: 75px;
 }
@@ -142,11 +142,11 @@ a {
 	left: 350px;
 }
 
-#batter_pic, #mask_pic, #meeting_pic, #wire_pic {
+#burger_pic, #mask_pic, #meeting_pic, #wire_pic {
 	height: 200px;
 	width: 250px;
 }
-#batter_banner, #mask_banner, #meeting_banner, #wire_banner {
+#burger_banner, #mask_banner, #meeting_banner, #wire_banner {
 	color: white;
 	background-color: #4aaaa5;
 	width: 250px;
@@ -264,7 +264,7 @@ footer {
 
 	}
 
-	.batter-pic {
+	.burger-pic {
 		position: absolute;
 		left: 175px;
 		top: 10px;
@@ -286,12 +286,12 @@ footer {
 		left: 175px;
 	}
 
-	#batter_banner, #mask_banner, #meeting_banner, #wire_banner {
+	#burger_banner, #mask_banner, #meeting_banner, #wire_banner {
 		position: absolute;
 
 	}
 
-	#batter_banner {
+	#burger_banner {
 		top: 151px;
 		left: 175px;
 	}
@@ -420,11 +420,11 @@ footer {
 		text-align: center;
 	}
 
-	#batter_pic, #mask_pic, #meeting_pic, #wire_pic, #batter_banner, #mask_banner, #meeting_banner, #wire_banner {
+	#burger_pic, #mask_pic, #meeting_pic, #wire_pic, #burger_banner, #mask_banner, #meeting_banner, #wire_banner {
 		position: relative;
 	}
 
-	#batter_pic, #batter_banner {
+	#burger_pic, #burger_banner {
 		position: relative;
 		left: 100px;
 	}
